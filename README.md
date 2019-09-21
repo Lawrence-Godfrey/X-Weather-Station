@@ -1,11 +1,11 @@
-# Simple software which uses various X-chips from [XinaBox]: https://www.xinabox.cc to read in the current temperature, humidity and atmospheric pressure and display it on an OLED display.
+### Simple software which uses various X-chips from [XinaBox](https://www.xinabox.cc) to read in the current temperature, humidity and atmospheric pressure and display it on an OLED display.
 
 ### Items used
- - [CC03]: https://www.xinabox.cc/collections/core/products/cc03 microcontroller
- - [OD01]: https://www.xinabox.cc/collections/output/products/oD01 OLED Display 
- - [IP02]: https://www.xinabox.cc/collections/interfaces-1/products/ip01 
- - [SW01]: https://www.xinabox.cc/collections/sensor/products/sw01
- - [BR01]: https://www.xinabox.cc/collections/bridges/products/br01
+ - [CC03](https://www.xinabox.cc/collections/core/products/cc03) microcontroller
+ - [OD01](https://www.xinabox.cc/collections/output/products/od01) OLED Display 
+ - [IP02](https://www.xinabox.cc/collections/interfaces-1/products/ip01) interface for connecting core to computer
+ - [SW01](https://www.xinabox.cc/collections/sensor/products/sw01) X-chip with 3 sensors: temperature, humidity, atmospheric pressure
+ - [BR01](https://www.xinabox.cc/collections/bridges/products/br01) bridge to connect X-chips to Raspberry Pi
  - Raspberry Pi 3B+ 
 
  When using the Raspberry Pi, the sensors and display are connected using the BR01 Bridge, which can be easily connected to the GPIO pins on the Pi. 
