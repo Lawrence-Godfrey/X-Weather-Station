@@ -44,4 +44,10 @@ The Cloud base height is distance from see level to the base of a cloud. The clo
 
 ### Video Demonstration [Here](https://youtu.be/yRiE1-ey24E)
 
-![alt text](Images/Lux-over-time.png "Logo Title Text 1")
+### Graphs of data
+
+![alt text](Images/Lux-over-time.png "Logo Title Text 1" =100x100)
+
+![alt text](Images/Cloud-height-lum.png "Logo Title Text 1" =100x100)
+
+![alt text](Images/humidity-breathing "Logo Title Text 1" =100x100)
