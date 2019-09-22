@@ -1,4 +1,5 @@
-### Simple software which uses various X-chips from [XinaBox](https://www.xinabox.cc) to read in the current temperature, humidity, atmospheric pressure, UV light and visiable light using sensors and display this data on an OLED screen while also saving it to a csv file.  
+### Simple Weather Station and Light detector 
+Simple software which uses various X-chips from [XinaBox](https://www.xinabox.cc) to read in the current temperature, humidity, atmospheric pressure, UV light and visiable light using sensors and display this data on an OLED screen while also saving it to a csv file.  
 
 ### Requirements 
  - #### Hardware
@@ -41,7 +42,6 @@ The python program calculates the dew point from the temperature, humidity and a
 
 The Cloud base height is distance from see level to the base of a cloud. The cloud base height is calculated using the approximation shown [here](https://en.wikipedia.org/wiki/Cloud_base). This is obviously also useful to know, especially in aviation. 
 
-### Video Demonstration 
-<a href="https://youtu.be/yRiE1-ey24E" target="_blank"><img src="http://img.youtube.com/vi/yRiE1-ey24E.jpg" width="240" height="180" border="10" /></a>
+### Video Demonstration [Here](https://youtu.be/yRiE1-ey24E)
 
-![alt text](Images/Lux over time.png "Logo Title Text 1")
+![alt text](Images/Lux-over-time.png "Logo Title Text 1")
